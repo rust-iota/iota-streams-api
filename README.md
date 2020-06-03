@@ -12,3 +12,9 @@
 
 [IOTA Streams](https://github.com/iotaledger/streams), a framework for cryptographic protocols called Applications. Replaces Masked Authenticated Messaging (MAM). Alpha version.
 
+## How To
+
+Run it
+```
+cargo run
+```
